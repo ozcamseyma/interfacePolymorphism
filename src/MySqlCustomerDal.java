@@ -2,7 +2,7 @@ public class MySqlCustomerDal implements ICustomerDal,IRepository{
 
 
     @Override
-    public void Add() {
+    public void add() {
         System.out.println("My Sql eklendi.");
     }
 }

@@ -13,7 +13,7 @@ public class CustomerManager {
         // is kodlari yazilir.
         // dali cagiriyoruz.
 
-        customerDal.Add();
+        customerDal.add();
 
 
     }
